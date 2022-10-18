@@ -23,3 +23,6 @@ Solicitação de alterações em um repositório de outro usuário
 
 ## 9- O que é fork?
 É a copia de um repositório de outro usuário
+
+## 10- O que é um VCS?
+Software de Controle de Versão
