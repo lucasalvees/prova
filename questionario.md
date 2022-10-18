@@ -19,4 +19,7 @@ O pull traz alterações do repositório remoto para o local
 Branch são ramificações do repositório
 
 ## 8- O que é pull request?
-Solicitação de alterações em um repositório de outra pessoa
+Solicitação de alterações em um repositório de outro usuário
+
+## 9- O que é fork?
+É a copia de um repositório de outro usuário
