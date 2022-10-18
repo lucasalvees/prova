@@ -14,3 +14,6 @@ O commit é o empacotamento das alterações
 
 ## 5- O que é pull?
 O pull traz alterações do repositório remoto para o local
+
+## 7- O que é branch?
+Branch são ramificações do repositório
