@@ -11,3 +11,6 @@ O commit é o empacotamento das alterações
 
 ## 4- O que é merge?
 É a junção de duas ou mais branches
+
+## 5- O que é pull?
+O pull traz alterações do repositório remoto para o local
