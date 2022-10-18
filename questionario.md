@@ -8,3 +8,6 @@ O commit é o empacotamento das alterações
 
 ## 3- O que é um repositório?
 É o local onde são armazenados os arquivos do projeto
+
+## 4- O que é merge?
+É a junção de duas ou mais branches
