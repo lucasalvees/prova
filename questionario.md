@@ -17,3 +17,6 @@ O pull traz alterações do repositório remoto para o local
 
 ## 7- O que é branch?
 Branch são ramificações do repositório
+
+## 8- O que é pull request?
+Solicitação de alterações em um repositório de outra pessoa
